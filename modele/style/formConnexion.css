@@ -1,0 +1,36 @@
+.form-background
+{
+    background-color: black;
+    width: 50%;
+    margin-top: 120px;
+    margin-left: 260px;
+}
+
+.card-title
+{
+    font-family: 'Qwigley', 'Sans Serif', cursive;
+    color: white;
+    font-size: 40px;
+}
+
+.link-color
+{
+    color: white !important;
+    text-decoration: none !important;
+    font-family: 'Qwigley', 'Sans Serif', cursive;
+    font-size: 30px;
+}
+
+button
+{
+    font-family: 'Qwigley', 'Sans Serif', cursive !important;
+    font-size: 30px !important;
+}
+
+.register, a
+{
+    color: white !important;
+    font-family: 'Qwigley', 'Sans Serif', cursive !important;
+    font-size: 25px;
+    text-decoration: none !important;
+}

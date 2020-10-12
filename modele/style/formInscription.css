@@ -1,0 +1,28 @@
+.form-background
+{
+    background-color: black;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 125px;
+}
+
+.card-title
+{
+    color: white;
+    font-family: 'Qwigley', 'Sans Serif', cursive;
+    font-size: 40px;
+}
+
+.btnInscription
+{
+    font-family: 'Qwigley', 'Sans Serif', cursive;
+    font-size: 25px;
+}
+
+.link-color
+{
+    color: white !important;
+    text-decoration: none !important;
+    font-family: 'Qwigley', 'Sans Serif', cursive;
+    font-size: 30px;
+}
